@@ -1,12 +1,21 @@
-Project description :- A simple Bank web application with features of login, after login it will redirect to a home page where it contains check balance, change password, amount transfer, get statement, apply loan and logout features built with J2EE MVC framework with Java as backened programming language and Oracle-11g as Database
+### Internet Banking!!
+The aim of the project is to help the users to make online transactions through internet banking.
 
-Technologies Used:- HTML,Java(JDBC,servelets,java server page, MVC), Oracle-11g
+#### Project Requirements
+- User should be able to register and login.
+- After login user should be able to redirect to the home page.
+- Home page should contain the features of balance check, change password, amount transfer, get statement and apply loan. 
+- User should be redirected to the respective pages upon clicking the above links.
+- User should be able logout.
 
-Steps to Use the Project:- 
 
-1.Install Java Development Kit(JDK) in your IDE(I prefer Eclipse).
+#### Project Approach
 
-2.Install Apache tomcat server and JAR files.
+- For this backend project, i used Java as the backend programming langauge and the designed the entire application using Mode-View-Controller Architecture.
 
-3.Install Oracle 11g and make a local host connection in the database.
 
+#### Technologies Used:
+
+  Back End:- servelets, java server pages, MVC, HTML
+  
+  Database:- Oracle
